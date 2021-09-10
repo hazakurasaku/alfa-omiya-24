@@ -127,5 +127,4 @@ app.component('answer-input', {
   }
 })
 
-app.mount('#stage')
-$　git rm --cashed .
+app.mount('#stage'）
